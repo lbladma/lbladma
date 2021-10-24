@@ -72,14 +72,14 @@
 <br>
 
 
-                Taoufik's GitHub Stats
+                                Taoufik's GitHub Stats
 
 
-[![Lbladma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lbladma&layout=compact&theme=nightowl)](https://github.com/grinninbarrett/github-readme-stats)
+[![Lbladma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lbladma&layout=compact&theme=nightowl)](https://github.com/lbladma/github-readme-stats)
 
 <br>
 
-![GrinninBarrett's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbladma&show_icons=true&theme=nightowl)
+![lbladma's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbladma&show_icons=true&theme=nightowl)
 
 <br>
 
