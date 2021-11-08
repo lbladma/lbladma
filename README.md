@@ -4,18 +4,21 @@
 
     [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&multiline=true&width=600&height=200&lines=I+am+an+Aspiring+CyberSecurity+professional+;with+a+Computer+Science+BA+degree;and+10%2B+years+experience+working+in+IT+;as+a+senior+computer+engineer;system+admin+by+day;and+web+designer+by+night)](https://git.io/typing-svg)
     
-     <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/? lines=I+am+an+Aspiring+CyberSecurity+professional+;with+a+Computer+Science+BA+degree;and+10%2B+years+experience+working+in+IT+;as+a+senior+computer+engineer;system+admin+by+day;and+web+designer+by+night!&multiline=true&font=Fira%20Code&center=true&width=600&height=200">
- </p>
+ 
    
    <p align="center">      
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+an+Aspiring+CyberSecurity+professional+;with+a+Computer+Science+BA+degree;and+10%2B+years+experience+working+in+IT+;as+a+senior+computer+engineer;system+admin+by+day;and+web+designer+by+night!&font=Fira%20Code&center=true&width=600&height=200">
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/search?q=extension%3Amd+%22readme+typing+svg+herokuapp%22&type=Code" alt="Users" title="Repo users">
+    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
+    
 <h2 align="center">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&multiline=true&width=600&height=200&lines=I+am+an+Aspiring+CyberSecurity+professional+;with+a+Computer+Science+BA+degree;and+10%2B+years+experience+working+in+IT+;as+a+senior+computer+engineer;system+admin+by+day;and+web+designer+by+night)](https://git.io/typing-svg)
-    Aspiring CyberSecurity and Full Stack Web Dev. professional with Computer Science BA degree and 10+ years experience working in IT as a senior computer engineer/system admin.
+ Aspiring CyberSecurity and Full Stack Web Dev. professional with Computer Science BA degree and 10+ years experience working in IT as a senior computer engineer/system admin.
     I love sports, travel, road trips, and explore what the world out there has to offer. 
     <br>
     I am passionate about technology, computers, coding, and cyber security. 
