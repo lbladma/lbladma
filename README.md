@@ -25,8 +25,8 @@
        
     <a href="https://lbladma.github.io/React-Portfolio/">
         
-<img src="https://img.shields.io/badge/-My%20Portfolio-green" 
-            alt="Taoufik's Portfolio"/>
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+            alt="Taoufik's LinkedIn Profile"/>
          </a>&nbsp;&nbsp;
 </p>
 
