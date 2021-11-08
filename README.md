@@ -7,7 +7,7 @@
    
    <p align="center">      
   <img src="https://readme-typing-svg.herokuapp.com/?
-  lines=Thank+you+for+visiting+my+GitHub+page;I+am+an+Aspiring+Full+Stack+Web+Dev;and+a+CyberSecurity+professional;with+a+Computer+Science+BA+Degree;and+10%2B+years+experience+working+in+IT+;as+a+Senior+Computer+Engineer+by+day,and....,a+Web+Designer+by+night....&font=Pacifico&color=%3DF73E&20Code&center=true&width=1000&height=50">
+  lines=Thank+you+for+visiting+my+GitHub+page;I+am+an+Aspiring+Full+Stack+Web+Dev;and+a+CyberSecurity+professional;with+a+Computer+Science+BA+Degree;and+10%2B+years+experience+working+in+IT+;as+a+Senior+Computer+Engineer+by+day,and....,a+Web+Designer+by+night....&font=Pacifico&color=%3DF73E&20Code&center=true&width=900&height=50">
 </p>
 
 
