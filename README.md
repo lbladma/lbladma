@@ -35,8 +35,6 @@
 
  ## Tools/Skills/and Technologies
 
----
-
 <br>
 <div align="center">
 
