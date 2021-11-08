@@ -10,7 +10,7 @@
 
     <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+an+Aspiring+Full+Stack+Web+Developer+and!;a+Cyber+Security+Professional+with!;a+Computer+Science+BA
-  and+10%2B+years+experience+working+in+IT+;as+a+Senior+Computer+Engineer+by+day,and....,a+Web+Designer+by+night....      &font=Fira%20Code&center=true&width=380&height=50">
+  and+10%2B+years+experience+working+in+IT+;as+a+Senior+Computer+Engineer+by+day,and,a+Web+Designer+by+night.      &font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 
