@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="center">Here are the tools/skills that I aquired as I learn Full Stack</h2>
+    ##Tools/Skills/and Technologies
 
 ---
 
