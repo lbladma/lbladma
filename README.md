@@ -2,19 +2,14 @@
     <img height="50px" width="50px" src="https://emojis.slackmojis.com/emojis/images/1621130177/39291/hi_there.gif?1621130177"> Hola!
 <h1>
 
- =
+
  
    
    <p align="center">      
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+an+Aspiring+CyberSecurity+professional+;with+a+Computer+Science+BA+degree;and+10%2B+years+experience+working+in+IT+;as+a+senior+computer+engineer;system+admin+by+day;and+web+designer+by+night!&font=Fira%20Code&center=true&width=600&height=200">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+an+Aspiring+CyberSecurity+professional+;with+a+Computer+Science+BA+degree;and+10%2B+years+experience+working+in+IT+;as+a+senior+computer+engineer;system+admin+by+day;and+web+designer+by+night!font=Pacifico&color=%234C62F7%20Code&center=true&width=600&height=200">
 </p>
 
-<p align="center">
-  <a href="https://github.com/search?q=extension%3Amd+%22readme+typing+svg+herokuapp%22&type=Code" alt="Users" title="Repo users">
-    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
+
     
 
 
