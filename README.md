@@ -10,7 +10,7 @@
 
 <p align="center">
   
-<img [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%234C62F7&size=24&center=true&vCenter=true&height=70&lines=Aspiring+Full+Stack+Web+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%234C62F7&size=24&center=true&vCenter=true&height=70&lines=Aspiring+Full+Stack+Web+Developer!)](https://git.io/typing-svg)
 
   Here's where you can check 
   - [my Portfolio](https://dionnenoellabarretto.github.io/20_DNB_React_Portfolio) 
