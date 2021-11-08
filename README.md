@@ -1,7 +1,7 @@
 <h1 align="center">
     <img height="50px" width="50px" src="https://emojis.slackmojis.com/emojis/images/1621130177/39291/hi_there.gif?1621130177"> Hola!
 <h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%234C62F7&size=24&center=true&vCenter=true&height=70&lines=Aspiring+Full+Stack+Web+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F73111&vCenter=true&lines=Aspiring+CyberSecurity+professional+;with+a+Computer+Science+BA+degree;and+10%2B+years+experience+working+in+IT+as+a+senior+computer+engineer%2C;system+admin+by+day%2C+and+web+designer+by+night+)](https://git.io/typing-svg)
 
 <h2 align="center">
     Aspiring CyberSecurity and Full Stack Web Dev. professional with Computer Science BA degree and 10+ years experience working in IT as a senior computer engineer/system admin.
