@@ -2,8 +2,7 @@
     <img height="50px" width="50px" src="https://emojis.slackmojis.com/emojis/images/1621130177/39291/hi_there.gif?1621130177"> Hola!
 <h1>
     <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring CyberSecurity professional!; with a Computer Science BA degree!;
-and 10+ years experience working in IT!; as a senior computer engineer,system admin by day, and web designer by night!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring CyberSecurity professional!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
     <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
