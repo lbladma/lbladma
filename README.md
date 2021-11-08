@@ -3,14 +3,11 @@
 <h1>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting+my+github+page!;I+am+an+aspiring+Full+Stack+Web+Developer!;and...;a+CyberSecurity+professional; Please+feel+free+to+contact+me&font=Fira%20Code&color=%1A040D&width=990&height=100">
-</p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)]
 
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%234C62F7&size=50&center=true&vCenter=true&height=100&width=600&lines=Thank+you+for+visiting+my+github+page!;I+am+an+aspiring+Full+Stack+Web+Developer!;and...;a+CyberSecurity+professional;Please+feel+free+to+contact+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%234C62F7&size=50&center=true&vCenter=true&height=100&width=600&
+  lines=Thank+you+for+visiting+my+github+page!;I+am+an+aspiring+Full+Stack+Web+Developer!;and...;a+CyberSecurity+professional;Please+feel+free+to+contact+me)](https://git.io/typing-svg)
 </p>
 
 <h3 align="center">
