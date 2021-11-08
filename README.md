@@ -10,16 +10,7 @@
 
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%234C62F7&size=24&center=true&vCenter=true&height=70&lines=Aspiring+Full+Stack+Web+Developer!)](https://git.io/typing-svg)
-
-  Here's where you can check 
-  - [my Portfolio](https://dionnenoellabarretto.github.io/20_DNB_React_Portfolio) 
-  - can view [my calendar Availability](https://getcloud.withgoogle.com/schedule/dionnenoella?ln=en) for a quick sync!  
-  - & check out [my Certification Badges](https://www.credly.com/users/dionne-noella-barretto/badges)!
-  
-  ![](https://www.codewars.com/users/DionneNoellaBarretto/badges/small)  | 
-  ![](https://komarev.com/ghpvc/?username=dionnenoellabarretto&color=blue&label=PROFILE+VIEWS)  | 
-  [![github](https://img.shields.io/github/followers/dionnenoellabarretto?logo=github&style=plastic)](https://github.com/dionnenoellabarretto?tab=followers)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%234C62F7&size=24&center=true&vCenter=true&height=70&lines=Thank+you+for+visiting+my+github+page!;I+am+an+aspiring+Full+Stack+Web+Developer!;and...;a+CyberSecurity+professional; Please+feel+free+to+contact+me!)](https://git.io/typing-svg)
 </p>
 
 <h3 align="center">
@@ -35,6 +26,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
             alt="Taoufik's LinkedIn Profile"/>
     </a>&nbsp;&nbsp;
+    - [my Portfolio](https://dionnenoellabarretto.github.io/20_DNB_React_Portfolio)
 
 </p>
 
