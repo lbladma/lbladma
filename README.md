@@ -88,3 +88,4 @@
 
 [![lbladma's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=lbladma&theme=nightowl)](https://github.com/lbladma/github-readme-streak-stats)
 
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
