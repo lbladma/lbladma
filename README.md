@@ -6,14 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+an+Aspiring+CyberSecurity+professional+;with+a+Computer+Science+BA+degree;and+10%2B+years+experience+working+in+IT+;as+a+senior+computer+engineer;system+admin+by+day;and+web+designer+by+night+!&font=Futura%20Code&center=true&width=600&height=200">
 </p>
      <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com lines=I+am+an+Aspiring+CyberSecurity+professional+;with+a+Computer+Science+BA+degree;and+10%2B+years+experience+working+in+IT+;as+a+senior+computer+engineer;system+admin+by+day;and+web+designer+by+night!&font=Fira%20Code&center=true&color=%2336BCF7&multiline=true&width=600&height=200">
-    
-    </p>
-    
-    <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
-</p>
-    
+    <img src="https://readme-typing-svg.herokuapp.com/? lines=I+am+an+Aspiring+CyberSecurity+professional+;with+a+Computer+Science+BA+degree;and+10%2B+years+experience+working+in+IT+;as+a+senior+computer+engineer;system+admin+by+day;and+web+designer+by+night!&font=Fira%20Code&center=true&color=%2336BCF7&multiline=true&width=600&height=200">
+ </p>
+   
     
 
 
