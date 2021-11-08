@@ -23,8 +23,10 @@
             alt="Taoufik's LinkedIn Profile"/>
     </a>&nbsp;&nbsp;
         </a>&nbsp;&nbsp;
-    <a href="https://lbladma.github.io/React-Portfolio/" alt="Taoufik's LinkedIn Profile">My Portfolio <a/>
-
+    <a href="https://lbladma.github.io/React-Portfolio/">
+        alt="Taoufik's LinkedIn Profile">My Portfolio <a/>
+<img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white" 
+            alt="Taoufik's Portfolio"/>
 </p>
 
 
