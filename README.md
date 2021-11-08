@@ -14,6 +14,7 @@
 
 
 <h2 align="center">
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&multiline=true&width=600&height=200&lines=I+am+an+Aspiring+CyberSecurity+professional+;with+a+Computer+Science+BA+degree;and+10%2B+years+experience+working+in+IT+;as+a+senior+computer+engineer;system+admin+by+day;and+web+designer+by+night)](https://git.io/typing-svg)
     Aspiring CyberSecurity and Full Stack Web Dev. professional with Computer Science BA degree and 10+ years experience working in IT as a senior computer engineer/system admin.
     I love sports, travel, road trips, and explore what the world out there has to offer. 
     <br>
