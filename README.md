@@ -68,8 +68,7 @@
 <br>
 <br>
 
-
-                                Taoufik's GitHub Stats
+## My GitHub Stats
 
 
 [![Lbladma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lbladma&layout=compact&theme=nightowl)](https://github.com/lbladma/github-readme-stats)
