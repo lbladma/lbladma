@@ -6,7 +6,7 @@
  <p align="center">      
 <img src="https://readme-typing-svg.herokuapp.com/? lines=I+am+an+Aspiring;and+a+CyberSecurity+professional;with+a+Computer+Science+BA+Degree;and+10%2B+years+experience+working+in+IT+;as+a+Senior+Computer+Engineer+by+day,and....,a+Web+Designer+by+night....&font=Pacifico&color=%3DF73E&20Code&center=true&width=900&height=100">
 </p>
-
+<img src="./hi.gif" width="40px">, I'm **Di**onne **No**ella (you can call me 'Dion') - [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%234C62F7&size=24&center=true&vCenter=true&height=70&lines=Aspiring+Full+Stack+Web+Developer!)](https://git.io/typing-svg)
 
     <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?
