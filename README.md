@@ -6,7 +6,7 @@
  
    
    <p align="center">      
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+an+Aspiring+CyberSecurity+professional+;with+a+Computer+Science+BA+degree;and+10%2B+years+experience+working+in+IT+;as+a+senior+computer+engineer;system+admin+by+day;and+web+designer+by+night!&font=olgassys&color=%red%20Code&center=true&width=600&height=200">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+an+Aspiring+CyberSecurity+professional+;with+a+Computer+Science+BA+degree;and+10%2B+years+experience+working+in+IT+;as+a+senior+computer+engineer;system+admin+by+day;and+web+designer+by+night!&font=olgassys&color=%#F74A13&20Code&center=true&width=600&height=200">
 </p>
 
 
