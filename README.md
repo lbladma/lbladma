@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting+my+github+page!;I+am+an+aspiring+Full+Stack+Web+Developer!;and...;a+CyberSecurity+professional...&font=Fira%20Code&color=%1A040D&center=true&width=600&height=100">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting+my+github+page!;I+am+an+aspiring+Full+Stack+Web+Developer!;and...;a+CyberSecurity+professional...Feel +free+to+contact+me+if+you+have+any+questions+or+feedback..&font=Fira%20Code&color=%1A040D&center=true&width=2000&height=100">
 </p>
 
 
