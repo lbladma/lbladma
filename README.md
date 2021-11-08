@@ -6,7 +6,7 @@
 
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clara&color=%F7F3EC&size=45&center=true&vCenter=true&height=100&width=950&lines=Thank+you+for+visiting+my+github+page!;I+am+an+aspiring+Full+Stack+Web+Developer!;and...;a+CyberSecurity+professional;Please+feel+free+to+contact+me+bellow;if+you+have+questions...;Feedback...;or+inquiries...!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clara&color=%D14836&size=45&center=true&vCenter=true&height=100&width=950&lines=Thank+you+for+visiting+my+github+page!;I+am+an+aspiring+Full+Stack+Web+Developer!;and...;a+CyberSecurity+professional;Please+feel+free+to+contact+me+bellow;if+you+have+questions...;Feedback...;or+inquiries...!)](https://git.io/typing-svg)
 </p>
 
 <h3 align="center">
@@ -24,8 +24,8 @@
     </a>&nbsp;&nbsp;
         </a>&nbsp;&nbsp;
     <a href="https://lbladma.github.io/React-Portfolio/">
-        alt="Taoufik's LinkedIn Profile">My Portfolio <a/>
-<img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white" 
+        
+<img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=portfolio&logoColor=white" 
             alt="Taoufik's Portfolio"/>
 </p>
 
