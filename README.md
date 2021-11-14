@@ -1,4 +1,4 @@
-<b  align="center">>
+<b  align="center">
     <img height="50px" width="50px" src="https://emojis.slackmojis.com/emojis/images/1621130177/39291/hi_there.gif?1621130177"> Hola! 
 </b>
 <h2 align="center">I'm Taoufik</h2>
