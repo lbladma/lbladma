@@ -32,6 +32,27 @@
 
 
 <br>
+## 🙋‍♂️ About Me 
+
+- 🔭 I’m currently working on **Portfolio Builing**
+
+- 🌱 I’m currently learning **Languages, Framework, Library**
+
+- 👯 I’m looking to collaborate on **Open Source Contribution**
+
+- 🤝 I’m looking for help with **Stack Overflow**
+
+- 👨‍💻 All of my projects are available at **[Portfolio](https://github.com/ianujvarshney?tab=repositories)**
+
+- 📝 I regularly write articles on **[Blog Website](htttps://www.newstechnews.in)**
+
+- 💬 Ask me about **react, node.js, express.js**
+
+- 📫 How to reach me **[Contact Me](anujkk1911997@gmail.com)**
+
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1ZkcUyJNMkTucBelLNaxMmFsnhpmcmRGn/view?usp=sharing)**
+
+- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ---
 
