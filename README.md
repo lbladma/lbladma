@@ -29,7 +29,9 @@ About me
 
 - 💬 Ask me about **react, node.js, express.js, HTML, CSS, MongoDB, GraphQL, MySQL, and coding in general**
 
-- 🤝 I’m looking for help with **Stack Overflow** and offer my skills to **Non-Profits**
+- 🤝 I’m looking for help with **finding a job** in **softare developement**
+
+- 🤝  I'm willing to offer my skills and voluneteer to **Non-Profits**
 
 - 🔭 I’m passionate about **Technology, Coding, and CyberSecurity**
 
