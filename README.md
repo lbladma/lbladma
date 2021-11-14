@@ -11,13 +11,16 @@
 <h1 align="center">
 About me
 </h1>
+<br>
+<hr>
 <p align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clara&color=%6cd136&size=45&center=true&vCenter=true&height=100&width=950&lines=Thank+you+for+visiting+my+github+page!;I+am+an+aspiring+Full+Stack+Web+Developer!;and...;a+CyberSecurity+professional;Please+feel+free+to+contact+me+bellow;if+you+have+questions...;Feedback...;or+inquiries...!)](https://git.io/typing-svg)
 </p>
 
 
-
+<br>
+<hr>
 
 
 <br>
