@@ -11,6 +11,32 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clara&color=%6cd136&size=45&center=true&vCenter=true&height=100&width=950&lines=Thank+you+for+visiting+my+github+page!;I+am+an+aspiring+Full+Stack+Web+Developer!;and...;a+CyberSecurity+professional;Please+feel+free+to+contact+me+bellow;if+you+have+questions...;Feedback...;or+inquiries...!)](https://git.io/typing-svg)
 </p>
 
+
+
+
+
+<br>
+## 🙋‍♂️ About Me 
+
+- 💬 Ask me about **react, node.js, express.js, HTML, CSS, MongoDB, GraphQL, MySQL, and coding in general**
+
+- 🤝 I’m looking for help with **Stack Overflow** and offer my skills to **Non-Profits**
+
+- 🔭 I’m passionate about **Technology, Coding, and CyberSecurity**
+
+- 🔭 I’m currently working on **multiple projects**
+
+- 🌱 I’m currently learning **Languages, Framework, Library**
+
+- 👯 I’m looking to collaborate on **Open Source Contribution**
+
+- 👨‍💻 All of my projects are available at **[Portfolio](https://github.com/lbladma?tab=repositories)**
+
+- 📄 Know about my experiences **[Resume](https://lbladma.github.io/React-Portfolio/static/media/resume.ff8a9f56.pdf)**
+
+- ⚡ Fun facts **I play many sports and love outdoors, traveling, road trip, and space**
+
+<br>
 <h3 align="center">
     I'd love to connect and add you to my professional network. feel free to add me or contact me. 
 </h3>
@@ -28,31 +54,6 @@
             <img src="https://img.shields.io/badge/MyPortfolio-00FE11?style=for-the-badge&logo=""&logoColor=white" alt="Taoufik's Portfolio"/>
         </a>
 </p>
-
-
-
-<br>
-## 🙋‍♂️ About Me 
-
-- 🔭 I’m currently working on **Portfolio Builing**
-
-- 🌱 I’m currently learning **Languages, Framework, Library**
-
-- 👯 I’m looking to collaborate on **Open Source Contribution**
-
-- 🤝 I’m looking for help with **Stack Overflow**
-
-- 👨‍💻 All of my projects are available at **[Portfolio](https://github.com/ianujvarshney?tab=repositories)**
-
-- 📝 I regularly write articles on **[Blog Website](htttps://www.newstechnews.in)**
-
-- 💬 Ask me about **react, node.js, express.js**
-
-- 📫 How to reach me **[Contact Me](anujkk1911997@gmail.com)**
-
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1ZkcUyJNMkTucBelLNaxMmFsnhpmcmRGn/view?usp=sharing)**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ---
 
