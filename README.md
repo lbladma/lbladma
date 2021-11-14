@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img height="50px" width="50px" src="https://emojis.slackmojis.com/emojis/images/1621130177/39291/hi_there.gif?1621130177"> Hola! I'm Taoufik
+    <img height="50px" width="50px" src="https://emojis.slackmojis.com/emojis/images/1621130177/39291/hi_there.gif?1621130177"> Hola! 
 <h1>
-
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Taoufik</h1>
 
 
 <p align="center">
