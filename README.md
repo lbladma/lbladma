@@ -39,7 +39,7 @@ About me
 
 - 👯 I’m looking to collaborate on **Open Source Contribution**
 
-- 👨‍💻 All of my projects are available at **[Portfolio](https://github.com/lbladma?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Github](https://github.com/lbladma?tab=repositories)**
 
 - 📄 Know about my experiences **[Resume](https://lbladma.github.io/React-Portfolio/static/media/resume.ff8a9f56.pdf)**
 
