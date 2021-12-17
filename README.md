@@ -120,6 +120,9 @@ About me
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-- name: Quote - README
-  uses: siddharth2016/quote-readme@0.1.1
 
+
+
+#### 🔖 Random Quote or Fun-Fact:  [![Update Quote Readme](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/quote.yml/badge.svg)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/quote.yml)  <a align="center" href="https://github.com/marketplace/actions/quote-readme"> <!--STARTS_HERE_QUOTE_README-->
+<i>❝A 15 year old hacked NASA computers and caused a 21-day shutdown of their computers.❞</i>
+<!--ENDS_HERE_QUOTE_README--> </a>
