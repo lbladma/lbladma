@@ -119,3 +119,7 @@ About me
 [![lbladma's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=lbladma&theme=nightowl)](https://github.com/lbladma/github-readme-streak-stats)
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+- name: Quote - README
+  uses: siddharth2016/quote-readme@0.1.1
+
