@@ -61,7 +61,7 @@ About me
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
             alt="Taoufik's LinkedIn Profile"/>
     </a>&nbsp;&nbsp;
-    <a href="https://lbladma.github.io/React-Portfolio/">
+    <a href="https://lbladma.github.io/My_Portfolio/aboutMe.html">
             <img src="https://img.shields.io/badge/MyPortfolio-00FE11?style=for-the-badge&logo=""&logoColor=white" alt="Taoufik's Portfolio"/>
         </a>
 </p>
